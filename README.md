@@ -14,7 +14,7 @@ After we do the learning and testing, we can make a conclusion that, for Fashion
 
 ![Model Accuracy & Loss](documentation/model_acc_loss.png) 
 
-We wanted to know more about how well our model predict the data class. You can see the result in the form of precision-recall from classification report for each class. Besides that, we presented the number of wrong prediction from our CNN model. The documentations are showed below. Based on the pictures, we can see that our model predict data from Class 5 mostly accurate than others. So that, the precision & recall have highest values.
+We wanted to know more about how well our model predict the data class. You can see the result in the form of precision-recall from classification report for each class. Besides that, we presented the number of wrong prediction from our CNN model. The documentations are showed below. Based on the pictures, we can see that our model predict data from Class 1 mostly accurate than others. So that, the precision & recall have highest values.
 
 Classification Report | Wrong Prediction
 ----------------------| ----------------
