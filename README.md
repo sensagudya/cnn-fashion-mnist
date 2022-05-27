@@ -10,14 +10,15 @@ This project features classification modeling with big data, so the neural netwo
 
 ![CNN model](documentation/cnn_model.png)
 
-After we do the learning and testing, we can make a conclusion that, for Fashion MNIST dataset, the accuracy score we get is 98.38% for the training data and 92.78% for the testing data(![](documentation/model_acc_loss)). We wanted to know more about how well our model predict the data class. You can see the result in the form of precision-recall from classification report for each class. Besides that, we presented the number of wrong prediction from our CNN model. The documentations are showed below.
+After we do the learning and testing, we can make a conclusion that, for Fashion MNIST dataset, the accuracy score we get is 98.38% for the training data and 92.78% for the testing data.
+
+![](documentation/model_acc_loss) 
+
+We wanted to know more about how well our model predict the data class. You can see the result in the form of precision-recall from classification report for each class. Besides that, we presented the number of wrong prediction from our CNN model. The documentations are showed below. Based on the pictures, we can see that our model predict data from Class 5 mostly accurate than others. So that, the precision & recall have highest values.
 
 Classification Report | Wrong Prediction
 ----------------------| ----------------
-![](documentation/precission_recall_per_class) | ![](documentation/wrong_output_total_per_class)
-
-
-
+![](documentation/precision_recall_per_class) | ![](documentation/wrong_output_total_per_class)
 
 
 
